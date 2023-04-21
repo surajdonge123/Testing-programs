@@ -18,6 +18,10 @@ public class TestingApplication {
 	 return "hi hello";
 	 
  }
+ 
+ public int id() {
+	 return 1;
+ }
 		
 	
 }
